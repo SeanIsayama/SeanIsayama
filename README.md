@@ -1,6 +1,6 @@
 ## Hi there, I'm Hikaru 👋
 
-- 🎓 I'm a undergraduate student majoring in Data Science and Probability & Statistics at UC San Diego!
+- 🎓 I'm an undergraduate student majoring in Data Science and Probability & Statistics at UC San Diego!
   
 - 🔭 I’m passionate about working with machine learning, statistical modeling, and data analytics to drive meaningful insights.
 
